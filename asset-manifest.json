@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/MovieManiaNexus/static/css/main.2f52433a.css",
+    "main.js": "/MovieManiaNexus/static/js/main.0c2b42fc.js",
+    "static/js/787.8b196a6e.chunk.js": "/MovieManiaNexus/static/js/787.8b196a6e.chunk.js",
+    "static/media/baaghi3.mp4": "/MovieManiaNexus/static/media/baaghi3.380ba9037c1cb44845e9.mp4",
+    "static/media/Kgf2.mp4": "/MovieManiaNexus/static/media/Kgf2.444fbc24e1268d0ad65c.mp4",
+    "static/media/RRR.mp4": "/MovieManiaNexus/static/media/RRR.b5978bfb623e47b11e47.mp4",
+    "static/media/Got.mp4": "/MovieManiaNexus/static/media/Got.b0b3f8257e15c3a0bdfa.mp4",
+    "static/media/Liger.mp4": "/MovieManiaNexus/static/media/Liger.481e1bc6b2af7b86d30c.mp4",
+    "static/media/Super30.mp4": "/MovieManiaNexus/static/media/Super30.c6e916167ddf2a26088d.mp4",
+    "static/media/Bahubali.mp4": "/MovieManiaNexus/static/media/Bahubali.6a7c484bc4a9945031ee.mp4",
+    "static/media/Vikram.mp4": "/MovieManiaNexus/static/media/Vikram.462e4db1c7690b1121ae.mp4",
+    "static/media/Lion_King.mp4": "/MovieManiaNexus/static/media/Lion_King.bf7359e7c80e8172f9d9.mp4",
+    "static/media/Shamshera.mp4": "/MovieManiaNexus/static/media/Shamshera.042b47094de1198d64d7.mp4",
+    "static/media/Sacred_games.mp4": "/MovieManiaNexus/static/media/Sacred_games.b1414f094c7db5d4cf2f.mp4",
+    "static/media/avengers.mp4": "/MovieManiaNexus/static/media/avengers.023d3b21bc1ecb958f77.mp4",
+    "static/media/baaghi3.jpg": "/MovieManiaNexus/static/media/baaghi3.cf33edc263e01dea561d.jpg",
+    "static/media/vikram.jpg": "/MovieManiaNexus/static/media/vikram.07659c555397a581f182.jpg",
+    "static/media/shamshera.jpg": "/MovieManiaNexus/static/media/shamshera.caf0c953177d806ea3ac.jpg",
+    "static/media/lionking.jpg": "/MovieManiaNexus/static/media/lionking.5a368e16d24630f0a22a.jpg",
+    "static/media/got.jpg": "/MovieManiaNexus/static/media/got.07d3b27d73e2071bf360.jpg",
+    "static/media/sacredgames.jpg": "/MovieManiaNexus/static/media/sacredgames.9c808f68d27771ad37a5.jpg",
+    "static/media/kgf2.jpg": "/MovieManiaNexus/static/media/kgf2.7798c84ff5c768ba62cf.jpg",
+    "static/media/bahubali.jpg": "/MovieManiaNexus/static/media/bahubali.60d5ee4ce503bd0a868e.jpg",
+    "static/media/liger.jpg": "/MovieManiaNexus/static/media/liger.15077932cd49a58dc978.jpg",
+    "static/media/rrr.jpeg": "/MovieManiaNexus/static/media/rrr.c99d39c4cda79bd220fb.jpeg",
+    "static/media/super30.jpg": "/MovieManiaNexus/static/media/super30.c30089dbc104ee8b0e97.jpg",
+    "static/media/avengers.jpg": "/MovieManiaNexus/static/media/avengers.03358679628d8ddc3627.jpg",
+    "index.html": "/MovieManiaNexus/index.html",
+    "main.2f52433a.css.map": "/MovieManiaNexus/static/css/main.2f52433a.css.map",
+    "main.0c2b42fc.js.map": "/MovieManiaNexus/static/js/main.0c2b42fc.js.map",
+    "787.8b196a6e.chunk.js.map": "/MovieManiaNexus/static/js/787.8b196a6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f52433a.css",
+    "static/js/main.0c2b42fc.js"
+  ]
+}
