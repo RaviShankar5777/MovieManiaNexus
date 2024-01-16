@@ -1,0 +1,40 @@
+.sidebar {
+  width: 20vw;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  background-image: url(https://images.unsplash.com/photo-1620145648299-f926ac0a9470?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-position: center;
+  background-size: cover;
+  gap: 100px;
+  padding: 70px 0px;
+  box-shadow: 10px 5px 5px black;
+}
+
+#dropdown-basic {
+  font-size: 20px;
+}
+
+#dropdown {
+  padding: 20px 70px;
+}
+
+#dropdown-menu {
+  background-color: black;
+  border: 1px solid white;
+  border: none;
+}
+
+#dropdown-item {
+  color: wheat;
+  background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+#dropdown-item:hover {
+  color: white;
+  background-color: white;
+  font-size: 17px;
+  font-weight: 500;
+}

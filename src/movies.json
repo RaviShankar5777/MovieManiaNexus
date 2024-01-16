@@ -1,0 +1,336 @@
+{
+    "tollywood":{
+        "directors":[
+            {
+            "id":0,
+            "name":"SSR",
+            "img":"https://static.india.com/wp-content/uploads/2022/07/ss-rajamouli-breaks-silence-bollywood-vs-south-mahabharata-movie.jpg?impolicy=Medium_Resize&w=1200&h=800",
+            "movies":[
+                {
+                    "moviename":"Simhadri",
+                    "img":"https://www.searchhyderabad.com/wp-content/uploads/2022/06/Watch-Simhadri-Movie.jpeg",
+                    "video":"https://www.youtube.com/embed/IaEbDf_f2lM?si=ycvj-eqQ1My4vRcG"
+                },
+                {
+                    "moviename":"RRR",
+                    "img":"https://assets.thehansindia.com/h-upload/2022/03/14/1281604-whatsapp-image-2022-03-14-at-130148-9.jpg",
+                    "video":"https://www.youtube.com/embed/BN1MwXUR3PM?si=TPMGOXRx_5LpYOR_"
+                },
+                {
+                    "moviename":"Vikramarkudu",
+                    "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/3805/563805-h",
+                    "video":"https://www.youtube.com/embed/SonfLlQP9Zk?si=dh15GiGJ9jo7Es6m"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "name":"Sukumar",
+            "img":"https://feeds.abplive.com/onecms/images/uploaded-images/2023/04/20/92990092f2cdad0acf766979554d785d1681980803232263_original.jpg?impolicy=abp_cdn&imwidth=650",
+            "movies":[
+                {
+                    "moviename":"1 Nenokkadine",
+                    "img":"https://m.media-amazon.com/images/M/MV5BMjM2MzA4NjE0MV5BMl5BanBnXkFtZTgwMDE1NzAwMTE@._V1_.jpg",
+                    "video":"https://www.youtube.com/embed/_ZWTOXmvEgo?si=NxOAbTVdtT4eMfdo"
+                },
+                {
+                    "moviename":"Nannaku Prematho",
+                    "img":"https://files.prokerala.com/movies/pics/800/nannaku-prematho-movie-wallpaper-50553.jpg",
+                    "video":"https://www.youtube.com/embed/Om69gF1iiT4?si=LuGfMCoTIxuS-7c2"
+                },
+                {
+                    "moviename":"Jagadam",
+                    "img":"https://etv-win-image.akamaized.net/etvwin/telugumovies/jagadam/27459/jagadam-Jagadam_Movie-768x432.jpg",
+                    "video":"https://www.youtube.com/embed/PKg5nKJLV3E?si=XhRTZIlD-cIEGiRd"
+                }
+            ]
+        },
+        
+        {
+            "id":2,
+            "name":"Kotarala Siva",
+            "img":"https://images.indianexpress.com/2021/06/Koratala-Siva-Acharya-1200by667.jpg?",
+            "movies":[
+                {
+                    "moviename":"Mirchi",
+                    "img":"https://i.ytimg.com/vi/I5cJMydo5Hc/maxresdefault.jpg",
+                    "video":"https://www.youtube.com/embed/I6QLMyeC1n8?si=ILfS17tvB6GIWv9_"
+                },
+                {
+                    "moviename":"Acharya",
+                    "img":"https://th-i.thgim.com/public/incoming/4kuhuk/article65362921.ece/alternates/FREE_1200/acharya%20%281%29.jpg",
+                    "video":"https://www.youtube.com/embed/5vcdMXJQebk?si=mp33pp12nIT3E16s"
+                },
+                {
+                    "moviename":"Devara",
+                    "img":"https://th-i.thgim.com/public/entertainment/movies/lhmowm/article66870835.ece/alternates/LANDSCAPE_1200/Devara%20Jr%20NTR.jpg",
+                    "video":"https://www.youtube.com/embed/cW2RWZCUot4?si=4UpTuFFyFZpwPeam"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name":"Trivikram",
+            "img":"https://www.telugu360.com/wp-content/uploads/2020/01/Trivikram.jpg",
+            "movies":[
+                {
+                    "moviename":"Jalsa",
+                    "img":"https://www.newstap.in/h-upload/2022/08/13/1402612-jalsa.webp",
+                    "video":"https://www.youtube.com/embed/7yWl_vN7wdM?si=HIaPaW9aJJmnSUDm"
+                },
+                {
+                    "moviename":"Kaleja",
+                    "img":"https://3.bp.blogspot.com/_GsEcbuw8ND0/TK4yz2pqBsI/AAAAAAAADJk/RGyqB8k3RCU/w1200-h630-p-k-no-nu/Kaleja.jpg",
+                    "video":"https://www.youtube.com/embed/jG7VdP18j38?si=TSNeMnbBkjIF89D6"
+                },
+                {
+                    "moviename":"Aravinda sametha",
+                    "img":"https://i.ytimg.com/vi/MIBAkM2IbhI/maxresdefault.jpg",
+                    "video":"https://www.youtube.com/embed/dNMe5oRfsCE?si=RC1l-sxQOE97kdFt"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name":"Puri jagannadh",
+            "img":"https://cinemaworldmasti.com/wp-content/uploads/2022/02/puri.jpg",
+            "movies":[
+                {
+                    "moviename":"Pokiri",
+                    "img":"https://static.moviecrow.com/gallery/20150730/68861-wp-93-pokiri1280.jpg",
+                    "video":"https://www.youtube.com/embed/Eizdl6D0O9M?si=NvazI7BD5wwNPm_Z"
+                },
+                {
+                    "moviename":"Temper",
+                    "img":"https://madaboutmoviez.files.wordpress.com/2015/09/temper-movie-hd-posters-2.jpg?w=1568",
+                    "video":"https://www.youtube.com/embed/SQgRN5tu1f4?si=CEJcOMPFORp7HoKb"
+                },
+                {
+                    "moviename":"Ismart Shankar",
+                    "img":"https://saisaysmovies.files.wordpress.com/2019/07/ismart-2.jpg?w=746",
+                    "video":"https://www.youtube.com/embed/M3bjgAiWpPA?si=mHWbjillDBI_nGE2"
+                }
+            ]
+        },
+       
+        {
+            "id":5,
+            "name":"Naga Ashvin",
+            "img":"https://cdn.gulte.com/wp-content/uploads/2021/03/5076491Director-Nag-Aswin-Photos-14.jpg",
+            "movies":[
+                {
+                    "moviename":"Mahanati",
+                    "img":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/201805/Keerthy-Suresh-Exclusive-Stills-of-Mahanati-1.jpeg",
+                    "video":"https://www.youtube.com/embed/qrBVJGQZoyA?si=_84-GA6HuLh6bU15"
+                },
+                {
+                    "moviename":"kalki 2898 ad",
+                    "img":"https://i.ytimg.com/vi/bC36d8e3bb0/maxresdefault.jpg",
+                    "video":"https://www.youtube.com/embed/bC36d8e3bb0?si=VcySYAlJc_rVFSyN"
+                },
+                {
+                    "moviename":"Yevade Subrahmanyam",
+                    "img":"https://files.prokerala.com/movies/pics/800/yevade-subramanyam-movie-poster-37989.jpg",
+                    "video":"https://www.youtube.com/embed/_pqngUO_pP4?si=icdSJVaHef8DOcLG"
+                }
+            ]
+        }
+    
+    
+    
+    ],
+    "actors":[
+        {
+            "id":0,
+            "name":"N T R .Jr",
+            "img":"https://akm-img-a-in.tosshub.com/indiatoday/images/photo_gallery/202305/348832088_1147336400002564_3520184504579952347_n.jpg?VersionId=zPGZGhK5_FN7PQzUhGnRd_IDE3hnXYvm&size=686:*",
+            "actormovies":[
+                {
+                    "actormoviename":"Ramayya Vasthavayya",
+                    "img":"https://i.pinimg.com/originals/3c/ef/a5/3cefa5d43129253c4b7f1b7d90427106.jpg",
+                    "vid":"https://www.youtube.com/embed/lVbpn9MQFYs?si=U7j2Jhp1Z9WvdCWw"
+                },
+                {
+                    "actormoviename":"Jai Lava Kusa",
+                    "img":"https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2017/09/kusa-ntr-lava-the-first-look-poster-31641196-5a43-11e7-a18d-042ec35e3331-1505917374.jpg",
+                    "vid":"https://www.youtube.com/embed/5f12ozsOvlA?si=sFvXhcFOzPPVodHr"
+                },
+                {
+                    "actormoviename":"Janatha garage",
+                    "img":"https://c4.wallpaperflare.com/wallpaper/27/926/477/samantha-jr-ntr-nithya-menen-janatha-garage-wallpaper-preview.jpg",
+                    "vid":"https://www.youtube.com/embed/veg4MRKnCUk?si=GKnGgQ1ZKMZftO1M"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "name":"Ram Charan",
+            "img":"https://www.m9.news/wp-content/uploads/2023/07/Ram-Charan.jpg",
+            "actormovies":[
+                {
+                    "actormoviename":"Chirutha",
+                    "img":"https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-0-10814/list/1170x658withlogoeba1ba4cde9a46249761bb8bf9c84310.jpg",
+                    "vid":"https://www.youtube.com/embed/NPGFgs1Px6M?si=Hu3BC61nlsZfvbnl"
+                },
+                {
+                    "actormoviename":"Nayak",
+                    "img":"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/S/pv-target-images/0857364433d06938962da80161784e9e78a2385be2c26e90d2d65b1f3e39921f.jpg",
+                    "vid":"https://www.youtube.com/embed/1TzCVywgW_s?si=10gckFkE0ex6m4TQ"
+                },
+                {
+                    "actormoviename":"Dhurva",
+                    "img":"https://www.justwatch.com/images/backdrop/54912087/s640/dhruva/dhruva",
+                    "vid":"https://www.youtube.com/embed/r_yVN37aCYI?si=_icXd11ouoBN2Ga0"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"Prabhas",
+            "img":"https://assets.gqindia.com/photos/5d67bccd92463800081c1bb4/4:3/w_1440,h_1080,c_limit/Prabhas%20movies%20.jpg",
+            "actormovies":[
+                {
+                    "actormoviename":"Mirchi",
+                    "img":"https://i.ytimg.com/vi/I5cJMydo5Hc/maxresdefault.jpg",
+                    "vid":"https://www.youtube.com/embed/I6QLMyeC1n8?si=K41k8fV6NE5nWflp"
+                },
+                {
+                    "actormoviename":"Saaho",
+                    "img":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/201908/saaho2.jpeg?VersionId=mrgGnKi56Fajc07r3l6PYe8Z4Ew2tnNX",
+                    "vid":"https://www.youtube.com/embed/lD0-ztCFydA?si=dLpcZXQG8ycfEICz"
+                },
+                {
+                    "actormoviename":"Kalki",
+                    "img":"https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image5mxv-1689948556123.jpg?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces",
+                    "vid":"https://www.youtube.com/embed/bC36d8e3bb0?si=IAJg_2k5vASGuGm1"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name":"Mahesh Babu",
+            "img":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/Mahesh_Babu_latest_phto_1200x768.jpeg?size=1200:675",
+            "actormovies":[
+                {
+                    "actormoviename":"Athadu",
+                    "img":"https://image-resizer-cloud-api.akamaized.net/image/93515315-3C1A-4758-8226-EB6A80F473F2/0-16x9.jpg?width=1080",
+                    "vid":"https://www.youtube.com/embed/ZvdQ_vDyrw4?si=SWhZt8sWK9ObcHo2"
+                },
+                {
+                    "actormoviename":"Okkadu",
+                    "img":"https://sund-images.sunnxt.com/10645/640x360_Okkadu_10645_f478181a-7ec2-40a5-9b5e-b7722dc6d53c.jpg",
+                    "vid":"https://www.youtube.com/embed/dBNa7HupS74?si=AlZ5vWNVQK6ZDVei"
+                },
+                {
+                    "actormoviename":"Business Man",
+                    "img":"https://assets-in.bmscdn.com/discovery-catalog/events/et00008299-knpxytblmq-landscape.jpg",
+                    "vid":"https://www.youtube.com/embed/nw9Ogf1SCx0?si=WTxbd04VHxsPMe0M"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name":"Allu Arjun",
+            "img":"https://static.toiimg.com/thumb/msid-93087200,width-400,resizemode-4/93087200.jpg",
+            "actormovies":[
+                {
+                    "actormoviename":"S/o Satyamurthi",
+                    "img":"https://i.ytimg.com/vi/SyJZpUnrq9I/maxresdefault.jpg",
+                    "vid":"https://www.youtube.com/embed/dpnENU952gc?si=TTDFvOIqatMRVc8S"
+                },
+                {
+                    "actormoviename":"iddarammayilatho",
+                    "img":"https://m.media-amazon.com/images/M/MV5BYTRlOGFlMDctZjQ4My00Mjk2LTk0MmYtZWFiNDA3MDRmYWViXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
+                    "vid":"https://www.youtube.com/embed/EFL8B74VCRg?si=fHYnlIq9zoXs3rSf"
+                },
+                {
+                    "actormoviename":"Sarainodu",
+                    "img":"https://m.media-amazon.com/images/M/MV5BMTJkMjA2OGUtNzM0My00OWE1LTk1MWQtODJlYTQ4ZDhkZWFiXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
+                    "vid":"https://www.youtube.com/embed/_UGMZ9iVGvo?si=zgaVmN8i_Sgxxwz8"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "name":"Akhil Akkineni",
+            "img":"https://igimages.gumlet.io/telugu/home/akhil_agent08042022_c.jpg?w=376&dpr=2.6",
+            "actormovies":[
+                {
+                    "actormoviename":"Mr.Majnu",
+                    "img":"https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-0-32840/list/0032840list1620025370.jpg",
+                    "vid":"https://www.youtube.com/embed/XSnFa0zqXRM?si=JcszcCvMmwjS5mTZ"
+                },
+                {
+                    "actormoviename":"Most Eligible Bachelor",
+                    "img":"https://images.firstpost.com/wp-content/uploads/large_file_plugin/2020/07/1596020134_eligible1280.jpg",
+                    "vid":"https://www.youtube.com/embed/oFJxjVVovQo?si=Q02867fAzgHcIee1"
+                },
+                {
+                    "actormoviename":"Agent",
+                    "img":"https://images.indianexpress.com/2023/04/akhil.jpg",
+                    "vid":"https://www.youtube.com/embed/kPWVAiqZYOg?si=242aV4hWD0qepqlq"
+                }
+            ]
+        }
+    ],
+    "producers":[
+        {
+            "id":0,
+            "name":"DVV",
+            "img":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202006/Danayya.jpeg?size=690:388",
+            "producedMovies":[
+                {"movie":"OG",
+                "img":"https://m.media-amazon.com/images/M/MV5BOTRmNDNjYTItYmM3My00NjZlLWIzMGQtZjgwNmI4MGNlYmVjXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_.jpg"
+
+            },{"movie":"ninu kori",
+            "img":"https://www.cinejosh.com/reviewsimg/big/ninnu-kori-review_b_0707170207.jpg"
+            
+        },
+        {"movie":"Oye!",
+                "img":"https://m.media-amazon.com/images/S/pv-target-images/5ae22f536b69a297aaf3ab623830a4d947b388cc60aedbb640ff9e1845dda84d.png"
+                
+            }
+            ]
+        },
+        {
+            "id":1,
+            "name":"Dil Raju",
+            "img":"https://cdn.123telugu.com/content/wp-content/uploads/2022/08/DilRaju.jpg",
+            "producedMovies":[
+                {"movie":"Shatamanam Bhavati",
+                "img":"https://wallpapercave.com/wp/wp8460197.jpg"
+
+            },{"movie":"Oh My Friend",
+            "img":"https://m.media-amazon.com/images/S/pv-target-images/17b6a800df80ed7331dd759376b3a512a344b5a6370eb911cc42af215c63f76a.jpg"
+            
+        },
+        {"movie":"fida",
+                "img":"https://files.prokerala.com/movies/pics/800/3rd-week-posters-74131.jpg"
+                
+            }
+            ]
+        },
+        {
+            "id":2,
+            "name":"Radha Krishna",
+            "img":"https://assets.thehansindia.com/hansindia-bucket/1757_Radha_Krishna.jpg",
+            "producedMovies":[
+                {"movie":"Premam",
+                "img":"https://www.telugu360.com/wp-content/uploads/2016/10/premam-1200x800.jpg"
+
+            },{"movie":"A Aa",
+            "img":"https://e1.pxfuel.com/desktop-wallpaper/910/173/desktop-wallpaper-nithin-samantha-a-aa-telugu-movie-telugu-movie.jpg"
+            
+        },
+        {"movie":"Guntur karam",
+                "img":"https://i.ytimg.com/vi/DqwAxPe6PgI/maxresdefault.jpg"
+                
+            }
+            ]
+        }
+    ]
+
+    
+
+    }
+}

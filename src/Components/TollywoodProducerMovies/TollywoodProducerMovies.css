@@ -1,0 +1,30 @@
+.producermovie-container {
+  width: 80vw;
+  height: 91.9vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://images.unsplash.com/photo-1615414015111-8d98cb65677e?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-position: top;
+  background-size: cover;
+}
+
+.producermovie {
+  width: 28vw;
+  height: 30.5vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 10px;
+}
+.producermovie img {
+  width: 300px;
+  height: 200px;
+  box-shadow: 5px 0px 20px #ffc107;
+}
+.producermovie h1 {
+  font-size: 15px;
+  color: #ffc107;
+}
