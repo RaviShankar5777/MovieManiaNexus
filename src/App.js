@@ -34,7 +34,7 @@ function App() {
         {/* <HomeContent /> */}
 
         <Routes>
-          <Route exact path="/" element={<HomeContent />} />
+          <Route exact path="/MovieManiaNexus" element={<HomeContent />} />
           <Route
             exact
             path="/tollywood-Directors"
